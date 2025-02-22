@@ -2,7 +2,7 @@ fx_version 'cerulean'
 
 game 'gta5'
 
-author 'Santee'
+author 'SanteeDesigns'
 description 'Backseat Entry'
 
 version '1.0.3'
